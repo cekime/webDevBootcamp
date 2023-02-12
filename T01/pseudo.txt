@@ -1,0 +1,26 @@
+Scenario 1.
+Prompt user to input a letter
+While the input is a letter
+    Count if the letter is a vowel
+Then output the total number of vowels inputted    
+
+Scenario 2
+While the input is an integer
+    If the integer is even 
+        Add to "Even" array
+    Else
+        Add to "Odd" array
+Average of the sum of the "Even" array
+Average of the sum of the "Odd" array
+Output both numbers with a text label to identify them
+
+Scenario 3
+Create an output list called "Names"
+Add the first name in the input list to "Names"
+For the length of the input list
+Starting at i=1
+    For the items in "Names"  
+        If the input name is less than Names item or the end of Names has been reached
+            insert the input name into Names at the current position 
+        
+        

@@ -1,0 +1,9 @@
+Scenario 1
+Prompt user to input their name
+firstName = user input
+Print "hello" and firstName
+
+Prompt user to input their age
+Age = user input
+birthYear = current year - Age 
+Print "Based on your age of " + Age + ", it looks like you were born in " + birthYear
