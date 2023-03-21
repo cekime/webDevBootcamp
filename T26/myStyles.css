@@ -1,0 +1,95 @@
+ .all {
+         font-family: 'Times New Roman';
+
+      }
+
+      .maintitle {
+         text-align: center;
+         font-size: xx-large;
+      }
+
+      .toptitle {
+         text-align: center;
+         font-style: italic;
+
+      }
+
+      .headersection{
+         width: 1200px;
+         border: 5px solid #0e6872;
+         margin: 10;
+         gap: 10px;
+         background-color: rgba(236, 117, 6, 0.895); 
+         color: white;
+
+      }
+
+      img {
+         width: 300px;
+         height: 180px;
+         border-radius: 10px;
+         align-content: center;
+
+      }
+
+      .imgbox{
+         display: flex;
+         justify-content: center;
+         border: 3px solid #0e6872;
+         background-color: rgb(2, 31, 31);
+
+        }
+
+
+      .sheet {
+         grid-template-columns: repeat(2,600px);
+         gap: 10px;
+         width: 1210px;
+         display: grid;
+         background-color: rgb(137, 20, 7)  ;
+      } 
+
+      .section {
+
+         border: 3px solid #0e6872;
+         margin: 10;
+         background-color: white;
+
+         }
+
+      .title {
+
+         font-weight: 2000000;
+         text-align: center;
+
+      }
+
+      .h3title {
+
+        font-weight: 500;
+        text-align: center;
+
+}
+
+
+      .text {
+
+      font-size: medium;
+      display: flex;
+      justify-content: center;
+      float: ;
+      }
+
+      .navBar {
+         /* width: 1200px;
+         border: 5px solid #0e6872;
+         margin: 10;
+         gap: 10px;
+         background-color: rgba(236, 117, 6, 0.895); 
+         color: white; */
+
+         font-size: medium;
+         display: flex;
+         text-align: center;
+                 }
+   
